@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NuTsv8XlDGusWk2Ld+SLwX0jRbSnOY/W6DOuy4bftjm5C8u6CrfQGTQmfvxtZ4nkd+rJxYKeO6ADNFnA4v+enQ==",
+  "success": true,
+  "projectFilePath": "D:\\Teste\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lipep\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

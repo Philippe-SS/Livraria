@@ -1,0 +1,36 @@
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\bin\Debug\net5.0\Livraria.Infra.deps.json
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\bin\Debug\net5.0\Livraria.Infra.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\bin\Debug\net5.0\ref\Livraria.Infra.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\bin\Debug\net5.0\Livraria.Infra.pdb
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.csproj.AssemblyReference.cache
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.AssemblyInfoInputs.cache
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.AssemblyInfo.cs
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.csproj.CoreCompileInputs.cache
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\obj\Debug\net5.0\ref\Livraria.Infra.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.pdb
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\bin\Debug\net5.0\Livraria.Infra.deps.json
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\bin\Debug\net5.0\Livraria.Infra.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\bin\Debug\net5.0\ref\Livraria.Infra.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\bin\Debug\net5.0\Livraria.Infra.pdb
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\obj\Debug\net5.0\ref\Livraria.Infra.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.pdb
+D:\Teste\Livraria\Livraria.Infra\bin\Debug\net5.0\Livraria.Infra.deps.json
+D:\Teste\Livraria\Livraria.Infra\bin\Debug\net5.0\Livraria.Infra.dll
+D:\Teste\Livraria\Livraria.Infra\bin\Debug\net5.0\ref\Livraria.Infra.dll
+D:\Teste\Livraria\Livraria.Infra\bin\Debug\net5.0\Livraria.Infra.pdb
+D:\Teste\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.csproj.AssemblyReference.cache
+D:\Teste\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teste\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.AssemblyInfoInputs.cache
+D:\Teste\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.AssemblyInfo.cs
+D:\Teste\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.csproj.CoreCompileInputs.cache
+D:\Teste\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.dll
+D:\Teste\Livraria\Livraria.Infra\obj\Debug\net5.0\ref\Livraria.Infra.dll
+D:\Teste\Livraria\Livraria.Infra\obj\Debug\net5.0\Livraria.Infra.pdb

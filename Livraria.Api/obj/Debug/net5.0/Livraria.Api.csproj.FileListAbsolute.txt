@@ -1,0 +1,129 @@
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.exe
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.deps.json
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.runtimeconfig.json
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.runtimeconfig.dev.json
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\ref\Livraria.Api.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.pdb
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Flunt.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Domain.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.Data.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Domain.pdb
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.Data.pdb
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.pdb
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.csproj.AssemblyReference.cache
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.AssemblyInfoInputs.cache
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.AssemblyInfo.cs
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.csproj.CoreCompileInputs.cache
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\staticwebassets\Livraria.Api.StaticWebAssets.Manifest.cache
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\staticwebassets\Livraria.Api.StaticWebAssets.xml
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\scopedcss\bundle\Livraria.Api.styles.css
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.RazorTargetAssemblyInfo.cache
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.csproj.CopyComplete
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\ref\Livraria.Api.dll
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.pdb
+C:\Users\l_san\Documents\GitHub\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.exe
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.deps.json
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.runtimeconfig.json
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\ref\Livraria.Api.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.pdb
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Flunt.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Domain.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.Data.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Domain.pdb
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.Data.pdb
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.pdb
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\staticwebassets\Livraria.Api.StaticWebAssets.Manifest.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\staticwebassets\Livraria.Api.StaticWebAssets.xml
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\scopedcss\bundle\Livraria.Api.styles.css
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.csproj.CopyComplete
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\ref\Livraria.Api.dll
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.pdb
+C:\Users\Leandro\Desktop\ESTÁGIO DEAL\C# RETORNO\API EM .NET PARTE 2\LIVRARIA FONTE DIA 2\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.genruntimeconfig.cache
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\appsettings.json
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.StaticWebAssets.xml
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.exe
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.deps.json
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.runtimeconfig.json
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.runtimeconfig.dev.json
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\ref\Livraria.Api.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Api.pdb
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Dapper.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Flunt.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Domain.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.Data.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.dll
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Domain.pdb
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.Data.pdb
+D:\Teste\Livraria\Livraria.Api\bin\Debug\net5.0\Livraria.Infra.pdb
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.csproj.AssemblyReference.cache
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.AssemblyInfoInputs.cache
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.AssemblyInfo.cs
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.csproj.CoreCompileInputs.cache
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\scopedcss\bundle\Livraria.Api.styles.css
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\staticwebassets\Livraria.Api.StaticWebAssets.Manifest.cache
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.RazorTargetAssemblyInfo.cache
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.csproj.CopyComplete
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.dll
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\ref\Livraria.Api.dll
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.pdb
+D:\Teste\Livraria\Livraria.Api\obj\Debug\net5.0\Livraria.Api.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Livraria.Api",
+    "\\Livraria.Domain",
+    "\\Livraria.Domain\\Entidades",
+    "\\Livraria.Domain\\Query",
+    "\\Livraria.Infra",
+    "\\Livraria.Infra.Data"
+  ],
+  "SelectedNode": "\\Livraria.sln",
+  "PreviewInSolutionExplorer": false
+}
